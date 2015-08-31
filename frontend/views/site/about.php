@@ -10,7 +10,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="site-about">
     <h1><?= Html::encode($this->title) ?></h1>
 
-    <p>This is the About page. You may modify the following file to customize its content:</p>
+    <p>481/291 (Charan Sanit Wong), Bangkok, Bangkhunsi 10700 ,Thailand</p>
 
     <code><?= __FILE__ ?></code>
 </div>
